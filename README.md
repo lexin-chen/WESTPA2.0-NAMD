@@ -3,7 +3,7 @@
 The weighted ensemble (WE) strategy is an unbiased enhanced sampling technique that splits and reweighs trajectories. It is compiled in the Weighted Ensemble Simulation Toolkit with Parallelization and Analysis (WESPA). `WESTPA2.0-NAMD` is a modified version of the original WESTPA code by incorpoating NAMD for running simulations. `WE_concepts.md` includes my takeaways taken from [Zuckerman and Chong, 2017](https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-070816-033834).
 
 ## Requirements
-- [WESTPA](https://github.com/westpa/westpa) >= 2022.02 edition 
+- [WESTPA](https://github.com/westpa/westpa) >= 2022.02
 - [NAMD](http://www.ks.uiuc.edu/Research/namd/) >= 2.14
 - [Python](http://www.python.org/) >= 3.7
 
